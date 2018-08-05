@@ -9,7 +9,7 @@ OpenCV is used to detect faces or full body on raspberry pi-3.
 
 -Also in the email there will be links to access real live stream video on browser using **flask python library**. Flask only let you access live stream on local network.
 
--Link to access live video stream on global network will also be in sent email. This task requires the use of **localtunnel(free service) or ngrok(paid service)**.I haven't tried local tunnel on laptop but haven't tried on raspberry pi. Also global streaming can be pretty slow depending upon the network. localtunnel-https://github.com/localtunnel/localtunnel
+-Link to access live video stream on global network will also be in sent email. This task requires the use of **localtunnel(free service) or ngrok(paid service)**.I have tried local tunnel on laptop but haven't tried on raspberry pi. Also global streaming can be pretty slow depending upon the network. localtunnel-https://github.com/localtunnel/localtunnel
 
 -Also when someone will be detected, a message will be sent ot personal registered mobile phone. **Twilio** has been used to send message to mobile, but needs to register on their website first, and also its a paid service. Twilio gives trial account to test their services.
 
